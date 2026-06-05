@@ -1,0 +1,1127 @@
+{
+    "results": [
+        {
+            "siren": "909165466",
+            "nom_complet": "LEBEL TECHNOLOGIES",
+            "nom_raison_sociale": "LEBEL TECHNOLOGIES",
+            "sigle": null,
+            "nombre_etablissements": 2,
+            "nombre_etablissements_ouverts": 2,
+            "siege": {
+                "activite_principale": "71.12B",
+                "activite_principale_naf25": "71.12Y",
+                "activite_principale_registre_metier": null,
+                "annee_tranche_effectif_salarie": "2023",
+                "adresse": "25 RUE DE PONTHIEU 75008 PARIS",
+                "caractere_employeur": "O",
+                "cedex": null,
+                "code_pays_etranger": null,
+                "code_postal": "75008",
+                "commune": "75108",
+                "complement_adresse": null,
+                "coordonnees": "48.870759191,2.3090181495",
+                "date_creation": "2021-12-21",
+                "date_debut_activite": "2021-12-21",
+                "date_fermeture": null,
+                "date_mise_a_jour": null,
+                "date_mise_a_jour_insee": "2025-12-05T23:16:41",
+                "departement": "75",
+                "distribution_speciale": null,
+                "epci": "200054781",
+                "est_siege": true,
+                "etat_administratif": "A",
+                "geo_adresse": null,
+                "geo_id": null,
+                "indice_repetition": null,
+                "latitude": "48.870759191",
+                "libelle_cedex": null,
+                "libelle_commune": "PARIS",
+                "libelle_commune_etranger": null,
+                "libelle_pays_etranger": null,
+                "libelle_voie": "DE PONTHIEU",
+                "liste_enseignes": null,
+                "liste_finess": null,
+                "liste_id_bio": null,
+                "liste_idcc": [
+                    "1486"
+                ],
+                "liste_id_organisme_formation": null,
+                "liste_rge": null,
+                "liste_uai": null,
+                "longitude": "2.3090181495",
+                "nom_commercial": null,
+                "numero_voie": "25",
+                "dernier_numero_voie": null,
+                "region": "11",
+                "siret": "90916546600014",
+                "statut_diffusion_etablissement": "O",
+                "tranche_effectif_salarie": "12",
+                "type_voie": "RUE"
+            },
+            "activite_principale": "71.12B",
+            "activite_principale_naf25": "71.12Y",
+            "categorie_entreprise": "PME",
+            "caractere_employeur": null,
+            "annee_categorie_entreprise": "2023",
+            "date_creation": "2021-12-21",
+            "date_fermeture": null,
+            "date_mise_a_jour": "2026-06-04T11:17:29",
+            "date_mise_a_jour_insee": "2025-12-06T11:02:25",
+            "date_mise_a_jour_rne": "2024-05-19T17:01:20",
+            "dirigeants": [
+                {
+                    "siren": "908415896",
+                    "denomination": "ADEM GROUP",
+                    "qualite": "Pr\u00e9sident de SAS",
+                    "type_dirigeant": "personne morale"
+                }
+            ],
+            "etat_administratif": "A",
+            "nature_juridique": "5710",
+            "section_activite_principale": "M",
+            "tranche_effectif_salarie": "12",
+            "annee_tranche_effectif_salarie": "2023",
+            "statut_diffusion": "O",
+            "matching_etablissements": [
+                {
+                    "activite_principale": "71.12B",
+                    "activite_principale_naf25": "71.12Y",
+                    "ancien_siege": false,
+                    "annee_tranche_effectif_salarie": "2023",
+                    "adresse": "25 RUE DE PONTHIEU 75008 PARIS",
+                    "caractere_employeur": "O",
+                    "code_postal": "75008",
+                    "commune": "75108",
+                    "date_creation": "2021-12-21",
+                    "date_debut_activite": "2021-12-21",
+                    "date_fermeture": null,
+                    "epci": "200054781",
+                    "est_siege": true,
+                    "etat_administratif": "A",
+                    "geo_id": null,
+                    "latitude": "48.870759191",
+                    "libelle_commune": "PARIS",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": [
+                        "1486"
+                    ],
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "2.3090181495",
+                    "nom_commercial": null,
+                    "region": "11",
+                    "siret": "90916546600014",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "12"
+                },
+                {
+                    "activite_principale": "62.02A",
+                    "activite_principale_naf25": "62.20G",
+                    "ancien_siege": false,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "211 RUE LA FONTAINE 94120 FONTENAY-SOUS-BOIS",
+                    "caractere_employeur": "N",
+                    "code_postal": "94120",
+                    "commune": "94033",
+                    "date_creation": "2021-12-21",
+                    "date_debut_activite": "2021-12-21",
+                    "date_fermeture": null,
+                    "epci": "200054781",
+                    "est_siege": false,
+                    "etat_administratif": "A",
+                    "geo_id": null,
+                    "latitude": "48.858565948",
+                    "libelle_commune": "FONTENAY-SOUS-BOIS",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "2.4810114682",
+                    "nom_commercial": null,
+                    "region": "11",
+                    "siret": "90916546600022",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                }
+            ],
+            "finances": null,
+            "complements": {
+                "collectivite_territoriale": null,
+                "convention_collective_renseignee": true,
+                "liste_idcc": [
+                    "1486"
+                ],
+                "liste_finess_juridique": null,
+                "egapro_renseignee": false,
+                "est_achats_responsables": false,
+                "est_alim_confiance": false,
+                "est_association": false,
+                "est_avocat": false,
+                "est_bio": false,
+                "est_entrepreneur_individuel": false,
+                "est_entrepreneur_spectacle": false,
+                "est_ess": false,
+                "est_finess": false,
+                "est_organisme_formation": false,
+                "est_qualiopi": false,
+                "liste_id_organisme_formation": null,
+                "est_rge": false,
+                "est_siae": false,
+                "est_societe_mission": false,
+                "est_uai": false,
+                "est_patrimoine_vivant": false,
+                "bilan_ges_renseigne": false,
+                "identifiant_association": null,
+                "statut_entrepreneur_spectacle": null,
+                "type_siae": null,
+                "a_aide_minimis": false,
+                "a_aide_ademe": false,
+                "est_administration": false,
+                "est_service_public": null,
+                "est_l100_3": null
+            }
+        },
+        {
+            "siren": "829770742",
+            "nom_complet": "IMMOFI 40",
+            "nom_raison_sociale": "IMMOFI 40",
+            "sigle": null,
+            "nombre_etablissements": 2,
+            "nombre_etablissements_ouverts": 1,
+            "siege": {
+                "activite_principale": "68.32B",
+                "activite_principale_naf25": "68.32G",
+                "activite_principale_registre_metier": null,
+                "annee_tranche_effectif_salarie": null,
+                "adresse": "6 RUE COLBERT 44000 NANTES",
+                "caractere_employeur": "N",
+                "cedex": null,
+                "code_pays_etranger": null,
+                "code_postal": "44000",
+                "commune": "44109",
+                "complement_adresse": null,
+                "coordonnees": "47.2148598411582,-1.56881404810904",
+                "date_creation": "2022-03-25",
+                "date_debut_activite": "2022-03-25",
+                "date_fermeture": null,
+                "date_mise_a_jour": null,
+                "date_mise_a_jour_insee": "2025-12-06T03:30:04",
+                "departement": "44",
+                "distribution_speciale": null,
+                "epci": "244400404",
+                "est_siege": true,
+                "etat_administratif": "A",
+                "geo_adresse": null,
+                "geo_id": null,
+                "indice_repetition": null,
+                "latitude": "47.2148598411582",
+                "libelle_cedex": null,
+                "libelle_commune": "NANTES",
+                "libelle_commune_etranger": null,
+                "libelle_pays_etranger": null,
+                "libelle_voie": "COLBERT",
+                "liste_enseignes": null,
+                "liste_finess": null,
+                "liste_id_bio": null,
+                "liste_idcc": null,
+                "liste_id_organisme_formation": null,
+                "liste_rge": null,
+                "liste_uai": null,
+                "longitude": "-1.56881404810904",
+                "nom_commercial": null,
+                "numero_voie": "6",
+                "dernier_numero_voie": null,
+                "region": "52",
+                "siret": "82977074200023",
+                "statut_diffusion_etablissement": "O",
+                "tranche_effectif_salarie": "NN",
+                "type_voie": "RUE"
+            },
+            "activite_principale": "68.32B",
+            "activite_principale_naf25": "68.32G",
+            "categorie_entreprise": "PME",
+            "caractere_employeur": null,
+            "annee_categorie_entreprise": "2023",
+            "date_creation": "2017-04-25",
+            "date_fermeture": null,
+            "date_mise_a_jour": "2026-06-04T10:48:32",
+            "date_mise_a_jour_insee": "2025-12-06T09:44:22",
+            "date_mise_a_jour_rne": "2024-05-19T17:01:20",
+            "dirigeants": [
+                {
+                    "nom": "ALLET",
+                    "prenoms": "JACQUELINE",
+                    "annee_de_naissance": "1954",
+                    "date_de_naissance": "1954-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "AUBACH",
+                    "prenoms": "STEPHANIE",
+                    "annee_de_naissance": "1966",
+                    "date_de_naissance": "1966-11",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "KNITTEL (AUMONT)",
+                    "prenoms": "BRIGITTE",
+                    "annee_de_naissance": "1957",
+                    "date_de_naissance": "1957-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BALANDIER",
+                    "prenoms": "JEAN-MARIE",
+                    "annee_de_naissance": "1958",
+                    "date_de_naissance": "1958-09",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "ROYER (BASSELERIE)",
+                    "prenoms": "HELENE",
+                    "annee_de_naissance": "1977",
+                    "date_de_naissance": "1977-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "PESQUE (BAULES)",
+                    "prenoms": "MONIQUE",
+                    "annee_de_naissance": "1949",
+                    "date_de_naissance": "1949-04",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BLANCHAR",
+                    "prenoms": "JEAN-YVES",
+                    "annee_de_naissance": "1957",
+                    "date_de_naissance": "1957-07",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BLANCHARD",
+                    "prenoms": "CLEMENT",
+                    "annee_de_naissance": "1996",
+                    "date_de_naissance": "1996-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BLANCHARD",
+                    "prenoms": "MAELLE",
+                    "annee_de_naissance": "1989",
+                    "date_de_naissance": "1989-12",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BLANCHARD",
+                    "prenoms": "YANN",
+                    "annee_de_naissance": "1992",
+                    "date_de_naissance": "1992-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BOUCRET",
+                    "prenoms": "REMI",
+                    "annee_de_naissance": "1957",
+                    "date_de_naissance": "1957-05",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BOUMARD",
+                    "prenoms": "GERARD",
+                    "annee_de_naissance": "1956",
+                    "date_de_naissance": "1956-04",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BRIOT",
+                    "prenoms": "JEAN-MICHEL",
+                    "annee_de_naissance": "1958",
+                    "date_de_naissance": "1958-05",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "CANET",
+                    "prenoms": "YVETTE",
+                    "annee_de_naissance": "1956",
+                    "date_de_naissance": "1956-09",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "CHARPENTIER",
+                    "prenoms": "JEAN-FRANCOIS",
+                    "annee_de_naissance": "1946",
+                    "date_de_naissance": "1946-05",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "CHASTEL",
+                    "prenoms": "PHILIPPE",
+                    "annee_de_naissance": "1955",
+                    "date_de_naissance": "1955-12",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "COHEN",
+                    "prenoms": "FLORA",
+                    "annee_de_naissance": "1988",
+                    "date_de_naissance": "1988-07",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "CRUSSON",
+                    "prenoms": "JEAN-PIERRE",
+                    "annee_de_naissance": "1948",
+                    "date_de_naissance": "1948-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "DE ROQUETTE BUISSON (DE BOYER-MONTEGUT)",
+                    "prenoms": "MARIE-CHRISTINE",
+                    "annee_de_naissance": "1942",
+                    "date_de_naissance": "1942-12",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "DJENDI",
+                    "prenoms": "MYRIAM",
+                    "annee_de_naissance": "1971",
+                    "date_de_naissance": "1971-05",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "FABRE",
+                    "prenoms": "MAURICE",
+                    "annee_de_naissance": "1946",
+                    "date_de_naissance": "1946-07",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GEORGIN",
+                    "prenoms": "SYLVINE MARGUERITE YVONNE",
+                    "annee_de_naissance": "1961",
+                    "date_de_naissance": "1961-10",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GERARD",
+                    "prenoms": "ANNABELLE",
+                    "annee_de_naissance": "1980",
+                    "date_de_naissance": "1980-10",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GUILLAIN",
+                    "prenoms": "ARMAND",
+                    "annee_de_naissance": "1964",
+                    "date_de_naissance": "1964-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GUILLAUMINEAU",
+                    "prenoms": "JEAN-CLAUDE",
+                    "annee_de_naissance": "1935",
+                    "date_de_naissance": "1935-12",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "HUBERT",
+                    "prenoms": "MARIE-PIERRE",
+                    "annee_de_naissance": "1959",
+                    "date_de_naissance": "1959-12",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "JOUVAL",
+                    "prenoms": "GILBERT",
+                    "annee_de_naissance": "1939",
+                    "date_de_naissance": "1939-08",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GUILLAIN (LE FALHER)",
+                    "prenoms": "GAELLE",
+                    "annee_de_naissance": "1962",
+                    "date_de_naissance": "1962-05",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "LEBOUCHER",
+                    "prenoms": "ERIC",
+                    "annee_de_naissance": "1968",
+                    "date_de_naissance": "1968-04",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "CHAROY (MANAC H)",
+                    "prenoms": "PIERETTE",
+                    "annee_de_naissance": "1939",
+                    "date_de_naissance": "1939-03",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "MATTIA",
+                    "prenoms": "EVELYNE",
+                    "annee_de_naissance": "1961",
+                    "date_de_naissance": "1961-04",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "MONNIER",
+                    "prenoms": "CHRISTIAN",
+                    "annee_de_naissance": "1954",
+                    "date_de_naissance": "1954-02",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "NEGRE",
+                    "prenoms": "FRANCIS",
+                    "annee_de_naissance": "1960",
+                    "date_de_naissance": "1960-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "OUVRARD",
+                    "prenoms": "CLAUDINE",
+                    "annee_de_naissance": "1947",
+                    "date_de_naissance": "1947-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "PESQUE",
+                    "prenoms": "GUY",
+                    "annee_de_naissance": "1946",
+                    "date_de_naissance": "1946-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "POUTIER (POTTIER)",
+                    "prenoms": "FRANCOISE",
+                    "annee_de_naissance": "1939",
+                    "date_de_naissance": "1939-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "POULET",
+                    "prenoms": "SYLVIE",
+                    "annee_de_naissance": "1963",
+                    "date_de_naissance": "1963-03",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "POUTIER",
+                    "prenoms": "MAURICE",
+                    "annee_de_naissance": "1933",
+                    "date_de_naissance": "1933-09",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "DELAEY SARBACH (SAMYN)",
+                    "prenoms": "NADINE",
+                    "annee_de_naissance": "1955",
+                    "date_de_naissance": "1955-08",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "ARMANGAU (SANCHEZ)",
+                    "prenoms": "FRANCOISE",
+                    "annee_de_naissance": "1956",
+                    "date_de_naissance": "1956-02",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "SCHEYER",
+                    "prenoms": "ALAIN",
+                    "annee_de_naissance": "1956",
+                    "date_de_naissance": "1956-08",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "YEPES",
+                    "prenoms": "MARIO",
+                    "annee_de_naissance": "1976",
+                    "date_de_naissance": "1976-01",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "siren": "340369180",
+                    "denomination": "NORMANDIE TOURISME FINANCEMENT",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "350278024",
+                    "denomination": "SOCIETE POUR LA VALORISATION L'INNOVATION ET LE DEVELOPPEMENT DE TECHNOLOGIE ET DE SAVOIR FAIRE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "409515335",
+                    "denomination": "SAINT-BARTH",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "409982667",
+                    "denomination": "LNM CONTROLE ET SERVICES",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "417744372",
+                    "denomination": "PHILIPPE ORY AUDIT & CONSEIL",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "418281325",
+                    "denomination": "SCI DE L'ETOILE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "433620499",
+                    "denomination": "ALLCEC INVESTISSEMENTS",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "438610156",
+                    "denomination": "D.2.A.T. DEVELOPPEMENT DE L'AGRO ALIMENTAIRE DU TERROIR",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "447857814",
+                    "denomination": "MARSAFI",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "452653512",
+                    "denomination": "ROBLES",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "478346984",
+                    "denomination": "SCI ALEXIM",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "481599157",
+                    "denomination": "SCI DE L'AVENIR",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "494468903",
+                    "denomination": "MARC LEBEL",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "505114181",
+                    "denomination": "\"AAE ARMOR AVENIR ENVIRONNEMENT\"",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "508818069",
+                    "denomination": "PASCAL RAMET",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "520032780",
+                    "denomination": "MAS&FILLES",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "521913772",
+                    "denomination": "FONCIERE MAGELLAN",
+                    "qualite": "G\u00e9rant et associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "528845464",
+                    "denomination": "MILLONCITO",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "529075913",
+                    "denomination": "AED INVESTISSEMENTS",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "539018119",
+                    "denomination": "TAUPIN INVESTISSEMENTS",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "789377488",
+                    "denomination": "SCI MC AVENIR",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "789829017",
+                    "denomination": "SCI ANMAET",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "791021785",
+                    "denomination": "SCI CHATELET INVESTISSEMENT",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "793447111",
+                    "denomination": "SCI LOXALOU",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "794645622",
+                    "denomination": "JMD",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "794704650",
+                    "denomination": "LODA",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "797644416",
+                    "denomination": "K'CHOU",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "797779717",
+                    "denomination": "PIERRE AND CO",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "798608865",
+                    "denomination": "SOCI\u00c9T\u00c9 CIVILE FG INVEST",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "798621520",
+                    "denomination": "SCI IMMOBILIERE LA VARANGUE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "800367575",
+                    "denomination": "THERAPSY",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "800691008",
+                    "denomination": "K KORE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "811911015",
+                    "denomination": "HOLDING VALLEES",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "812718633",
+                    "denomination": "ALINGUO",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "812916567",
+                    "denomination": "SC F2M",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "812930568",
+                    "denomination": "PATRIFINANCE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "813174901",
+                    "denomination": "ANBARSATI",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "821030590",
+                    "denomination": "SOCIETE CIVILE MELLIFER",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "821128949",
+                    "denomination": "F.I.T",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "822011474",
+                    "denomination": "SVH PATRIMOINE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "823417373",
+                    "denomination": "FAR INVEST",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "823715925",
+                    "denomination": "SOCIETE CIVILE D'INVESTISSEMENT TIMATA",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "823791025",
+                    "denomination": "HJC 149",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "823856455",
+                    "denomination": "SC SPI",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "825291420",
+                    "denomination": "ARVITHELI 3",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "828025403",
+                    "denomination": "JUELIMO",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "828791988",
+                    "denomination": "HIPCO",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "829139120",
+                    "denomination": "EYLATIV REAL ESTATE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "829748110",
+                    "denomination": "PARLIAMENT INVESTMENT",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "830226866",
+                    "denomination": "SCIMAED",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831005020",
+                    "denomination": "LE VIEUX MANOIR",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831139654",
+                    "denomination": "LA BELLAIS",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831421862",
+                    "denomination": "CHLEONA",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831531579",
+                    "denomination": "IMMOD 40",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831822432",
+                    "denomination": "DWARF PATRIMOINE",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831854310",
+                    "denomination": "KLESTAN",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "831965439",
+                    "denomination": "CAROMAIN",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832006290",
+                    "denomination": "MARTELOCEC",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832072870",
+                    "denomination": "VZ4",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832128896",
+                    "denomination": "LLH",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832147482",
+                    "denomination": "QUICK STAR FINANCES",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832199293",
+                    "denomination": "VIOTIS",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832279970",
+                    "denomination": "BYANS",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832287783",
+                    "denomination": "SCI HERLIZ",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832343974",
+                    "denomination": "KYRODUN",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832360424",
+                    "denomination": "SNCP",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832408918",
+                    "denomination": "SC NINOLUA",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832411367",
+                    "denomination": "LES 3 ALLIANCES",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832520738",
+                    "denomination": "SCI LECOEUR",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832541585",
+                    "denomination": "PORSMEUR 2017",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832543268",
+                    "denomination": "SCI VESTA",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832733000",
+                    "denomination": "MAL CLABEL",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "832739239",
+                    "denomination": "SC BARATAUD",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "891465296",
+                    "denomination": "FM DEVELOPPEMENT",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "type_dirigeant": "personne morale"
+                }
+            ],
+            "etat_administratif": "A",
+            "nature_juridique": "6599",
+            "section_activite_principale": "L",
+            "tranche_effectif_salarie": "NN",
+            "annee_tranche_effectif_salarie": null,
+            "statut_diffusion": "O",
+            "matching_etablissements": [],
+            "finances": null,
+            "complements": {
+                "collectivite_territoriale": null,
+                "convention_collective_renseignee": false,
+                "liste_idcc": null,
+                "liste_finess_juridique": null,
+                "egapro_renseignee": false,
+                "est_achats_responsables": false,
+                "est_alim_confiance": false,
+                "est_association": false,
+                "est_avocat": false,
+                "est_bio": false,
+                "est_entrepreneur_individuel": false,
+                "est_entrepreneur_spectacle": false,
+                "est_ess": false,
+                "est_finess": false,
+                "est_organisme_formation": false,
+                "est_qualiopi": false,
+                "liste_id_organisme_formation": null,
+                "est_rge": false,
+                "est_siae": false,
+                "est_societe_mission": false,
+                "est_uai": false,
+                "est_patrimoine_vivant": false,
+                "bilan_ges_renseigne": false,
+                "identifiant_association": null,
+                "statut_entrepreneur_spectacle": null,
+                "type_siae": null,
+                "a_aide_minimis": false,
+                "a_aide_ademe": false,
+                "est_administration": false,
+                "est_service_public": null,
+                "est_l100_3": null
+            }
+        }
+    ],
+    "total_results": 2,
+    "page": 1,
+    "per_page": 10,
+    "total_pages": 1
+}

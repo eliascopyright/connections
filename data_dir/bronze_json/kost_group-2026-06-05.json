@@ -1,0 +1,954 @@
+{
+    "results": [
+        {
+            "siren": "789076023",
+            "nom_complet": "KOST GROUP",
+            "nom_raison_sociale": "KOST GROUP",
+            "sigle": null,
+            "nombre_etablissements": 6,
+            "nombre_etablissements_ouverts": 1,
+            "siege": {
+                "activite_principale": "46.90Z",
+                "activite_principale_naf25": "46.90Y",
+                "activite_principale_registre_metier": null,
+                "annee_tranche_effectif_salarie": null,
+                "adresse": "2 AVENUE DANIELLE CASANOVA 93150 LE BLANC-MESNIL",
+                "caractere_employeur": "N",
+                "cedex": null,
+                "code_pays_etranger": null,
+                "code_postal": "93150",
+                "commune": "93007",
+                "complement_adresse": null,
+                "coordonnees": "48.9263627118825,2.47231116784814",
+                "date_creation": "2026-03-16",
+                "date_debut_activite": "2026-03-16",
+                "date_fermeture": null,
+                "date_mise_a_jour": null,
+                "date_mise_a_jour_insee": "2026-03-26T21:31:17",
+                "departement": "93",
+                "distribution_speciale": null,
+                "epci": "200054781",
+                "est_siege": true,
+                "etat_administratif": "A",
+                "geo_adresse": null,
+                "geo_id": null,
+                "indice_repetition": null,
+                "latitude": "48.9263627118825",
+                "libelle_cedex": null,
+                "libelle_commune": "LE BLANC-MESNIL",
+                "libelle_commune_etranger": null,
+                "libelle_pays_etranger": null,
+                "libelle_voie": "DANIELLE CASANOVA",
+                "liste_enseignes": null,
+                "liste_finess": null,
+                "liste_id_bio": null,
+                "liste_idcc": null,
+                "liste_id_organisme_formation": null,
+                "liste_rge": null,
+                "liste_uai": null,
+                "longitude": "2.47231116784814",
+                "nom_commercial": null,
+                "numero_voie": "2",
+                "dernier_numero_voie": null,
+                "region": "11",
+                "siret": "78907602300066",
+                "statut_diffusion_etablissement": "O",
+                "tranche_effectif_salarie": "NN",
+                "type_voie": "AVENUE"
+            },
+            "activite_principale": "46.90Z",
+            "activite_principale_naf25": "46.90Y",
+            "categorie_entreprise": "PME",
+            "caractere_employeur": null,
+            "annee_categorie_entreprise": "2023",
+            "date_creation": "2012-10-22",
+            "date_fermeture": null,
+            "date_mise_a_jour": "2026-06-04T10:27:56",
+            "date_mise_a_jour_insee": "2026-03-26T21:31:17",
+            "date_mise_a_jour_rne": "2024-05-19T17:01:20",
+            "dirigeants": [
+                {
+                    "nom": "DJEFFAL",
+                    "prenoms": "SAADI",
+                    "annee_de_naissance": "1986",
+                    "date_de_naissance": "1986-06",
+                    "qualite": "G\u00e9rant",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                }
+            ],
+            "etat_administratif": "A",
+            "nature_juridique": "5499",
+            "section_activite_principale": "G",
+            "tranche_effectif_salarie": "NN",
+            "annee_tranche_effectif_salarie": null,
+            "statut_diffusion": "O",
+            "matching_etablissements": [
+                {
+                    "activite_principale": "46.90Z",
+                    "activite_principale_naf25": "46.90Y",
+                    "ancien_siege": false,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "2 AVENUE DANIELLE CASANOVA 93150 LE BLANC-MESNIL",
+                    "caractere_employeur": "N",
+                    "code_postal": "93150",
+                    "commune": "93007",
+                    "date_creation": "2026-03-16",
+                    "date_debut_activite": "2026-03-16",
+                    "date_fermeture": null,
+                    "epci": "200054781",
+                    "est_siege": true,
+                    "etat_administratif": "A",
+                    "geo_id": null,
+                    "latitude": "48.9263627118825",
+                    "libelle_commune": "LE BLANC-MESNIL",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "2.47231116784814",
+                    "nom_commercial": null,
+                    "region": "11",
+                    "siret": "78907602300066",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                },
+                {
+                    "activite_principale": "68.20A",
+                    "activite_principale_naf25": null,
+                    "ancien_siege": true,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "10 AVENUE SAINT-AUGUSTIN 06200 NICE",
+                    "caractere_employeur": "N",
+                    "code_postal": "06200",
+                    "commune": "06088",
+                    "date_creation": "2012-10-22",
+                    "date_debut_activite": "2019-10-23",
+                    "date_fermeture": "2019-07-01",
+                    "epci": "200030195",
+                    "est_siege": false,
+                    "etat_administratif": "F",
+                    "geo_id": null,
+                    "latitude": "43.679653682",
+                    "libelle_commune": "NICE",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "7.2291531504",
+                    "nom_commercial": null,
+                    "region": "93",
+                    "siret": "78907602300017",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                },
+                {
+                    "activite_principale": "55.20Z",
+                    "activite_principale_naf25": null,
+                    "ancien_siege": true,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "7 RUE TEISSEIRE 06400 CANNES",
+                    "caractere_employeur": "O",
+                    "code_postal": "06400",
+                    "commune": "06029",
+                    "date_creation": "2019-07-01",
+                    "date_debut_activite": "2020-09-11",
+                    "date_fermeture": "2020-09-11",
+                    "epci": "200039915",
+                    "est_siege": false,
+                    "etat_administratif": "F",
+                    "geo_id": null,
+                    "latitude": "43.5528658882353",
+                    "libelle_commune": "CANNES",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "7.02307137393269",
+                    "nom_commercial": "LEVON",
+                    "region": "93",
+                    "siret": "78907602300025",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                },
+                {
+                    "activite_principale": "55.20Z",
+                    "activite_principale_naf25": null,
+                    "ancien_siege": true,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "5 RUE MARECHAL DES LOGIS JULES FELLEGARA 06400 CANNES",
+                    "caractere_employeur": "N",
+                    "code_postal": "06400",
+                    "commune": "06029",
+                    "date_creation": "2020-09-11",
+                    "date_debut_activite": "2023-05-09",
+                    "date_fermeture": "2023-05-09",
+                    "epci": "200039915",
+                    "est_siege": false,
+                    "etat_administratif": "F",
+                    "geo_id": null,
+                    "latitude": "43.561154732",
+                    "libelle_commune": "CANNES",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "7.0200342538",
+                    "nom_commercial": "LEVON",
+                    "region": "93",
+                    "siret": "78907602300033",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                },
+                {
+                    "activite_principale": "55.20Z",
+                    "activite_principale_naf25": null,
+                    "ancien_siege": true,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "6 RUE DES LAVANDIERES SAINTE-OPPORTUNE 75001 PARIS",
+                    "caractere_employeur": "N",
+                    "code_postal": "75001",
+                    "commune": "75101",
+                    "date_creation": "2023-05-09",
+                    "date_debut_activite": "2023-10-29",
+                    "date_fermeture": "2023-10-29",
+                    "epci": "200054781",
+                    "est_siege": false,
+                    "etat_administratif": "F",
+                    "geo_id": null,
+                    "latitude": "48.858729813",
+                    "libelle_commune": "PARIS",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "2.3462074138",
+                    "nom_commercial": null,
+                    "region": "11",
+                    "siret": "78907602300041",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                },
+                {
+                    "activite_principale": "55.20Z",
+                    "activite_principale_naf25": "55.20Y",
+                    "ancien_siege": true,
+                    "annee_tranche_effectif_salarie": null,
+                    "adresse": "50 AVENUE DES CHAMPS ELYSEES 75008 PARIS",
+                    "caractere_employeur": "N",
+                    "code_postal": "75008",
+                    "commune": "75108",
+                    "date_creation": "2023-10-29",
+                    "date_debut_activite": "2026-03-16",
+                    "date_fermeture": "2026-03-16",
+                    "epci": "200054781",
+                    "est_siege": false,
+                    "etat_administratif": "F",
+                    "geo_id": null,
+                    "latitude": "48.870472104",
+                    "libelle_commune": "PARIS",
+                    "liste_enseignes": null,
+                    "liste_finess": null,
+                    "liste_id_bio": null,
+                    "liste_idcc": null,
+                    "liste_id_organisme_formation": null,
+                    "liste_rge": null,
+                    "liste_uai": null,
+                    "longitude": "2.3071172905",
+                    "nom_commercial": null,
+                    "region": "11",
+                    "siret": "78907602300058",
+                    "statut_diffusion_etablissement": "O",
+                    "tranche_effectif_salarie": "NN"
+                }
+            ],
+            "finances": {
+                "2017": {
+                    "ca": 0,
+                    "resultat_net": -240
+                }
+            },
+            "complements": {
+                "collectivite_territoriale": null,
+                "convention_collective_renseignee": false,
+                "liste_idcc": null,
+                "liste_finess_juridique": null,
+                "egapro_renseignee": false,
+                "est_achats_responsables": false,
+                "est_alim_confiance": false,
+                "est_association": false,
+                "est_avocat": false,
+                "est_bio": false,
+                "est_entrepreneur_individuel": false,
+                "est_entrepreneur_spectacle": false,
+                "est_ess": false,
+                "est_finess": false,
+                "est_organisme_formation": false,
+                "est_qualiopi": false,
+                "liste_id_organisme_formation": null,
+                "est_rge": false,
+                "est_siae": false,
+                "est_societe_mission": false,
+                "est_uai": false,
+                "est_patrimoine_vivant": false,
+                "bilan_ges_renseigne": false,
+                "identifiant_association": null,
+                "statut_entrepreneur_spectacle": null,
+                "type_siae": null,
+                "a_aide_minimis": false,
+                "a_aide_ademe": false,
+                "est_administration": false,
+                "est_service_public": null,
+                "est_l100_3": null
+            }
+        },
+        {
+            "siren": "983694241",
+            "nom_complet": "AALTIMMO 5",
+            "nom_raison_sociale": "AALTIMMO 5",
+            "sigle": null,
+            "nombre_etablissements": 1,
+            "nombre_etablissements_ouverts": 1,
+            "siege": {
+                "activite_principale": "68.20B",
+                "activite_principale_naf25": "68.20H",
+                "activite_principale_registre_metier": null,
+                "annee_tranche_effectif_salarie": null,
+                "adresse": "BATIMENT C 801 AVENUE DES CHAMPS BLANCS 35510 CESSON-SEVIGNE",
+                "caractere_employeur": "N",
+                "cedex": null,
+                "code_pays_etranger": null,
+                "code_postal": "35510",
+                "commune": "35051",
+                "complement_adresse": "BATIMENT C",
+                "coordonnees": "48.1334355315552,-1.61826386810742",
+                "date_creation": "2024-01-16",
+                "date_debut_activite": "2024-01-16",
+                "date_fermeture": null,
+                "date_mise_a_jour": null,
+                "date_mise_a_jour_insee": "2025-12-05T16:25:49",
+                "departement": "35",
+                "distribution_speciale": null,
+                "epci": "243500139",
+                "est_siege": true,
+                "etat_administratif": "A",
+                "geo_adresse": null,
+                "geo_id": null,
+                "indice_repetition": null,
+                "latitude": "48.1334355315552",
+                "libelle_cedex": null,
+                "libelle_commune": "CESSON-SEVIGNE",
+                "libelle_commune_etranger": null,
+                "libelle_pays_etranger": null,
+                "libelle_voie": "DES CHAMPS BLANCS",
+                "liste_enseignes": null,
+                "liste_finess": null,
+                "liste_id_bio": null,
+                "liste_idcc": null,
+                "liste_id_organisme_formation": null,
+                "liste_rge": null,
+                "liste_uai": null,
+                "longitude": "-1.61826386810742",
+                "nom_commercial": null,
+                "numero_voie": "801",
+                "dernier_numero_voie": null,
+                "region": "53",
+                "siret": "98369424100016",
+                "statut_diffusion_etablissement": "O",
+                "tranche_effectif_salarie": "NN",
+                "type_voie": "AVENUE"
+            },
+            "activite_principale": "68.20B",
+            "activite_principale_naf25": "68.20H",
+            "categorie_entreprise": null,
+            "caractere_employeur": null,
+            "annee_categorie_entreprise": null,
+            "date_creation": "2024-01-16",
+            "date_fermeture": null,
+            "date_mise_a_jour": "2026-06-04T11:42:07",
+            "date_mise_a_jour_insee": "2025-12-06T10:18:34",
+            "date_mise_a_jour_rne": "2024-05-19T17:01:20",
+            "dirigeants": [
+                {
+                    "nom": "BAILLON",
+                    "prenoms": "JOELLE COLETTE MONIQUE",
+                    "annee_de_naissance": "1954",
+                    "date_de_naissance": "1954-02",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "COLET",
+                    "prenoms": "DIDIER CHRISTOPHE MICHEL",
+                    "annee_de_naissance": "1974",
+                    "date_de_naissance": "1974-03",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "DEBEC",
+                    "prenoms": "DOMINIQUE ROBERT NOEL",
+                    "annee_de_naissance": "1970",
+                    "date_de_naissance": "1970-07",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "DUBOURDIEU",
+                    "prenoms": "PASCAL CLAUDE",
+                    "annee_de_naissance": "1972",
+                    "date_de_naissance": "1972-09",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GAUTHIER",
+                    "prenoms": "ERIC",
+                    "annee_de_naissance": "1965",
+                    "date_de_naissance": "1965-09",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GESBERT",
+                    "prenoms": "KHELIFA",
+                    "annee_de_naissance": "1959",
+                    "date_de_naissance": "1959-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "LOISEAU (GUE)",
+                    "prenoms": "CLAUDINE NELLY SUZANNE",
+                    "annee_de_naissance": "1972",
+                    "date_de_naissance": "1972-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "GUIVARCH",
+                    "prenoms": "JEAN PIERRE VINCENT",
+                    "annee_de_naissance": "1950",
+                    "date_de_naissance": "1950-04",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "KOSTER",
+                    "prenoms": "SIMON",
+                    "annee_de_naissance": "1988",
+                    "date_de_naissance": "1988-08",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "KRUMBHOLZ",
+                    "prenoms": "OLIVIER CHARLES",
+                    "annee_de_naissance": "1958",
+                    "date_de_naissance": "1958-07",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "LAURE",
+                    "prenoms": "JEAN-LUC FERNAND ETIENNE",
+                    "annee_de_naissance": "1947",
+                    "date_de_naissance": "1947-06",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "LOISEAU",
+                    "prenoms": "HUBERT ROLAND LOUIS",
+                    "annee_de_naissance": "1963",
+                    "date_de_naissance": "1963-05",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "BABONNEAU (PASSIER)",
+                    "prenoms": "CINDY DANY BRIGITTE",
+                    "annee_de_naissance": "1988",
+                    "date_de_naissance": "1988-04",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "PASSIER",
+                    "prenoms": "KELLY MARIE REGINE",
+                    "annee_de_naissance": "1987",
+                    "date_de_naissance": "1987-03",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "PASSIER",
+                    "prenoms": "LOIC",
+                    "annee_de_naissance": "1962",
+                    "date_de_naissance": "1962-11",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "DINARD (ROUXEL)",
+                    "prenoms": "ANNE BRIGITTE",
+                    "annee_de_naissance": "1962",
+                    "date_de_naissance": "1962-10",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "nom": "SAUREL",
+                    "prenoms": "CHRISTELLE MADELEINE VERONIQUE",
+                    "annee_de_naissance": "1979",
+                    "date_de_naissance": "1979-08",
+                    "qualite": "Associ\u00e9 ind\u00e9finiment responsable",
+                    "nationalite": null,
+                    "type_dirigeant": "personne physique"
+                },
+                {
+                    "siren": "331430777",
+                    "denomination": "SOCIETE DE COMMERCIALISATION ET D'EXPORTATION DE PRODUITS ALIMENTAIRES - COMEX",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "384649430",
+                    "denomination": "S O F I B A P",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "441443769",
+                    "denomination": "AD'ELIE",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "449104637",
+                    "denomination": "SCI LMPH",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "451062020",
+                    "denomination": "ALLIANCE FOODS INDUSTRIES",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "482440567",
+                    "denomination": "HLD ENVIRONNEMENT",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "482836343",
+                    "denomination": "SCI ITHAQUE",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "491096681",
+                    "denomination": "LES DOUCEURS DU CHENE",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "509564464",
+                    "denomination": "FINANCIERE MURZ'EAU",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "528533524",
+                    "denomination": "RETD INVEST",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "777748724",
+                    "denomination": "GROUP DES FONDEURS DE L'OUEST",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "784824153",
+                    "denomination": "MAZARS",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "789896446",
+                    "denomination": "HOLDING LOUIT",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "792536021",
+                    "denomination": "FIPC",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "792727737",
+                    "denomination": "AXOUM",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "794227025",
+                    "denomination": "LE BECHET",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "799543095",
+                    "denomination": "JCB HOLDING",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "802683755",
+                    "denomination": "MAXWILL",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "803552413",
+                    "denomination": "J&S LTD",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "808259154",
+                    "denomination": "CALYPSO FINANCE",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "808524227",
+                    "denomination": "AMI",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "809199177",
+                    "denomination": "MATHTE & CIE",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "812930550",
+                    "denomination": "OPALI-FINANCES",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "814240693",
+                    "denomination": "A.S.L.A.L.I",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "818581142",
+                    "denomination": "NS HOLDING",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "824433528",
+                    "denomination": "M&N HOLDING",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "827774308",
+                    "denomination": "SEBELO INVEST",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "833313810",
+                    "denomination": "LSIC",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "833582299",
+                    "denomination": "TESSYANNA",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "834192551",
+                    "denomination": "H2B",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "841078553",
+                    "denomination": "VAUTHELIN PAYSAGES FINANCES",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "842370314",
+                    "denomination": "TRIVELA SPORTS MANAGEMENT",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "849123658",
+                    "denomination": "MOBILE DEV",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "849245535",
+                    "denomination": "MATFAIR",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "850614223",
+                    "denomination": "AALTO REAL ESTATE INVESTEMENT MANAGEMENT",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "850825969",
+                    "denomination": "AJSSR",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "851384420",
+                    "denomination": "INVEST VAMY",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "877608521",
+                    "denomination": "HOLDING E.B",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "878260892",
+                    "denomination": "SVEN",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "888654324",
+                    "denomination": "YOOKATAN",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "888925252",
+                    "denomination": "LODA",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "889033825",
+                    "denomination": "EYWA INVESTS",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "890762339",
+                    "denomination": "SEMPA",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "893316935",
+                    "denomination": "HOLDING MM",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "899623227",
+                    "denomination": "HOLDING CHANTEBEL",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "903020782",
+                    "denomination": "THVD",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "911919082",
+                    "denomination": "ALTA",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "912586609",
+                    "denomination": "N3B IMMO SAS",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "913750824",
+                    "denomination": "FRANACO",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "919451302",
+                    "denomination": "GRANDSCORP",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "921464574",
+                    "denomination": "HOLDING PLET & AYRAL",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "929544575",
+                    "denomination": "PITOU7",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "930357629",
+                    "denomination": "SC DU LEVANDOUX",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "933459141",
+                    "denomination": "GRAND OUEST INVEST",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "934005588",
+                    "denomination": "TAMCHO",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "948725106",
+                    "denomination": "YB1963",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "950964601",
+                    "denomination": "ROME HOLDING",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "979188208",
+                    "denomination": "FG INVEST",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "983807124",
+                    "denomination": "SIX-ICIA",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "984583344",
+                    "denomination": "HOLDING PATRIMONIALE LES COMPLICES",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                },
+                {
+                    "siren": "984685099",
+                    "denomination": "KER'LALULE",
+                    "qualite": null,
+                    "type_dirigeant": "personne morale"
+                }
+            ],
+            "etat_administratif": "A",
+            "nature_juridique": "6540",
+            "section_activite_principale": "L",
+            "tranche_effectif_salarie": "NN",
+            "annee_tranche_effectif_salarie": null,
+            "statut_diffusion": "O",
+            "matching_etablissements": [],
+            "finances": null,
+            "complements": {
+                "collectivite_territoriale": null,
+                "convention_collective_renseignee": false,
+                "liste_idcc": null,
+                "liste_finess_juridique": null,
+                "egapro_renseignee": false,
+                "est_achats_responsables": false,
+                "est_alim_confiance": false,
+                "est_association": false,
+                "est_avocat": false,
+                "est_bio": false,
+                "est_entrepreneur_individuel": false,
+                "est_entrepreneur_spectacle": false,
+                "est_ess": false,
+                "est_finess": false,
+                "est_organisme_formation": false,
+                "est_qualiopi": false,
+                "liste_id_organisme_formation": null,
+                "est_rge": false,
+                "est_siae": false,
+                "est_societe_mission": false,
+                "est_uai": false,
+                "est_patrimoine_vivant": false,
+                "bilan_ges_renseigne": false,
+                "identifiant_association": null,
+                "statut_entrepreneur_spectacle": null,
+                "type_siae": null,
+                "a_aide_minimis": false,
+                "a_aide_ademe": false,
+                "est_administration": false,
+                "est_service_public": null,
+                "est_l100_3": null
+            }
+        }
+    ],
+    "total_results": 2,
+    "page": 1,
+    "per_page": 10,
+    "total_pages": 1
+}

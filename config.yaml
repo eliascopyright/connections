@@ -1,0 +1,10 @@
+paths:
+  data_dir: data_dir
+  linkedin_data: data_dir/linkedin_data
+  input: data_dir/input
+  bronze_json: data_dir/bronze_json
+  silver_parquet : data_dir/siver_parquet
+  gold_csv: data_dir/gold_csv
+  logs : logs
+
+    
