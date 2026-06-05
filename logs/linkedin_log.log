@@ -34774,3 +34774,45 @@ Name: finances_ca, Length: 1529, dtype: object
 2026-06-05 12:10:27,392 | INFO     | extract.py:158 | Dictionnaire table NAF enregistré avec succès dans data_dir\input...
 2026-06-05 12:10:27,392 | INFO     | extract.py:158 | Dictionnaire table NAF enregistré avec succès dans data_dir\input...
 2026-06-05 12:10:27,392 | INFO     | extract.py:158 | Dictionnaire table NAF enregistré avec succès dans data_dir\input...
+2026-06-05 12:13:15,861 | WARNING  | extract.py:141 | Erreur detctée: [Errno 22] Invalid argument: "data_dir\\bronze_json\\missions_freelance_&_offres_d'emploi_->_workdispo.com-2026-06-05.json", Entrées : filename=missions_freelance_&_offres_d'emploi_->_workdispo.com-2026-06-05.json
+
+2026-06-05 12:13:15,861 | WARNING  | extract.py:141 | Erreur detctée: [Errno 22] Invalid argument: "data_dir\\bronze_json\\missions_freelance_&_offres_d'emploi_->_workdispo.com-2026-06-05.json", Entrées : filename=missions_freelance_&_offres_d'emploi_->_workdispo.com-2026-06-05.json
+
+2026-06-05 12:13:15,861 | WARNING  | extract.py:141 | Erreur detctée: [Errno 22] Invalid argument: "data_dir\\bronze_json\\missions_freelance_&_offres_d'emploi_->_workdispo.com-2026-06-05.json", Entrées : filename=missions_freelance_&_offres_d'emploi_->_workdispo.com-2026-06-05.json
+
+2026-06-05 12:14:09,167 | WARNING  | extract.py:141 | Erreur detctée: [Errno 2] No such file or directory: 'data_dir\\bronze_json\\oliver_craft_\\_maison_carrée-2026-06-05.json', Entrées : filename=oliver_craft_/_maison_carrée-2026-06-05.json
+
+2026-06-05 12:14:09,167 | WARNING  | extract.py:141 | Erreur detctée: [Errno 2] No such file or directory: 'data_dir\\bronze_json\\oliver_craft_\\_maison_carrée-2026-06-05.json', Entrées : filename=oliver_craft_/_maison_carrée-2026-06-05.json
+
+2026-06-05 12:14:09,167 | WARNING  | extract.py:141 | Erreur detctée: [Errno 2] No such file or directory: 'data_dir\\bronze_json\\oliver_craft_\\_maison_carrée-2026-06-05.json', Entrées : filename=oliver_craft_/_maison_carrée-2026-06-05.json
+
+2026-06-05 12:14:12,139 | WARNING  | extract.py:144 | Erreur detctée: 'float' object has no attribute 'lower', Entrées : filename=nan
+
+2026-06-05 12:14:12,139 | WARNING  | extract.py:144 | Erreur detctée: 'float' object has no attribute 'lower', Entrées : filename=nan
+
+2026-06-05 12:14:12,139 | WARNING  | extract.py:144 | Erreur detctée: 'float' object has no attribute 'lower', Entrées : filename=nan
+
+2026-06-05 12:15:00,903 | WARNING  | extract.py:141 | Erreur detctée: [Errno 2] No such file or directory: 'data_dir\\bronze_json\\sani\\ikos_group-2026-06-05.json', Entrées : filename=sani/ikos_group-2026-06-05.json
+
+2026-06-05 12:15:00,903 | WARNING  | extract.py:141 | Erreur detctée: [Errno 2] No such file or directory: 'data_dir\\bronze_json\\sani\\ikos_group-2026-06-05.json', Entrées : filename=sani/ikos_group-2026-06-05.json
+
+2026-06-05 12:15:00,903 | WARNING  | extract.py:141 | Erreur detctée: [Errno 2] No such file or directory: 'data_dir\\bronze_json\\sani\\ikos_group-2026-06-05.json', Entrées : filename=sani/ikos_group-2026-06-05.json
+
+2026-06-05 12:18:18,442 | WARNING  | extract.py:141 | Erreur detctée: [Errno 22] Invalid argument: "data_dir\\bronze_json\\ad's_up_consulting_|_groupe_edg-2026-06-05.json", Entrées : filename=ad's_up_consulting_|_groupe_edg-2026-06-05.json
+
+2026-06-05 12:18:18,442 | WARNING  | extract.py:141 | Erreur detctée: [Errno 22] Invalid argument: "data_dir\\bronze_json\\ad's_up_consulting_|_groupe_edg-2026-06-05.json", Entrées : filename=ad's_up_consulting_|_groupe_edg-2026-06-05.json
+
+2026-06-05 12:18:18,442 | WARNING  | extract.py:141 | Erreur detctée: [Errno 22] Invalid argument: "data_dir\\bronze_json\\ad's_up_consulting_|_groupe_edg-2026-06-05.json", Entrées : filename=ad's_up_consulting_|_groupe_edg-2026-06-05.json
+
+2026-06-05 12:19:00,113 | INFO     | extract.py:205 | Sauvegarde des queries dans le fichier queries.json
+2026-06-05 12:19:00,113 | INFO     | extract.py:205 | Sauvegarde des queries dans le fichier queries.json
+2026-06-05 12:19:00,113 | INFO     | extract.py:205 | Sauvegarde des queries dans le fichier queries.json
+2026-06-05 12:19:00,123 | INFO     | extract.py:208 | Sauvegarde des queries faite avec succès
+2026-06-05 12:19:00,123 | INFO     | extract.py:208 | Sauvegarde des queries faite avec succès
+2026-06-05 12:19:00,123 | INFO     | extract.py:208 | Sauvegarde des queries faite avec succès
+2026-06-05 12:19:00,126 | INFO     | extract.py:148 | Enregistrement de la table NAF....
+2026-06-05 12:19:00,126 | INFO     | extract.py:148 | Enregistrement de la table NAF....
+2026-06-05 12:19:00,126 | INFO     | extract.py:148 | Enregistrement de la table NAF....
+2026-06-05 12:19:01,688 | INFO     | extract.py:158 | Dictionnaire table NAF enregistré avec succès dans data_dir\input...
+2026-06-05 12:19:01,688 | INFO     | extract.py:158 | Dictionnaire table NAF enregistré avec succès dans data_dir\input...
+2026-06-05 12:19:01,688 | INFO     | extract.py:158 | Dictionnaire table NAF enregistré avec succès dans data_dir\input...
